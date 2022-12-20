@@ -1,0 +1,5 @@
+# Endoscope-Geometric-Distortion
+
+As one of the several important optical performance characteristics, endoscope geometric distortion can negatively affect size estimation and feature identification related diagnosis. Therefore, a quantitative and simple method to evaluate endoscope geometric is imperative for both the endoscopic industry and medical device regulatory agents. Current methods to evaluate endoscope geometric distortion are either too difficult to understand or too simple to accurately describe complex geometric distortion. 
+This tool is a method to evaluate endoscope geometric distortion. The method overcomes the aforementioned limitations, has clear physical meaning, and can facilitate lesion size estimation during diagnosis. Most importantly, the method can facilitate endoscopic technology to market and potentially be adopted in an international endoscope standard. 
+Details about how to use the tool can be found in peer-reviewed publication (https://doi.org/10.1117/1.JBO.21.5.056003).
