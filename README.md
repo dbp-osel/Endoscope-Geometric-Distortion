@@ -4,7 +4,7 @@ As one of the several important optical performance characteristics, endoscope g
 This tool is a method to evaluate endoscope geometric distortion. The method overcomes the aforementioned limitations, has clear physical meaning, and can facilitate lesion size estimation during diagnosis. Most importantly, the method can facilitate endoscopic technology to market and potentially be adopted in an international endoscope standard. 
 Principle of the tool can be found in peer-reviewed publication (https://doi.org/10.1117/1.JBO.21.5.056003). The codes package for this method can be found at GitHub (https://github.com/dbp-osel/Endoscope-Geometric-Distortion.git). 
 
-# Tool Reference
+# Regulatory Science Tool (RST) Reference
 •	RST Reference Number: RST24MD05.01  
 •	Date of Publication: 05/04/2023  
 •	Recommended Citation: U.S. Food and Drug Administration. (2023). Endoscope Geometric Distortion- A Method for Quantitative Evaluation (RST24MD05.01). https://cdrh-rst.fda.gov/endoscope-geometric-distortion-method-quantitative-evaluation  
